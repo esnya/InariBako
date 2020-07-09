@@ -1,0 +1,3 @@
+[submodule "Editor/Unity Resource Checker"]
+	path = Editor/Unity Resource Checker
+	url = https://github.com/handcircus/Unity-Resource-Checker.git

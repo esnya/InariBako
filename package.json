@@ -1,0 +1,16 @@
+{
+  "name": "inaribako",
+  "version": "1.0.0",
+  "description": "VRChat Prefab Collection for SDK2",
+  "author": "esnya",
+  "license": "MIT",
+  "private": "true",
+  "dependencies": {
+    "com.unity.build-report-inspector": "0.2.2-preview",
+    "com.unity.package-manager-ui": "2.0.8",
+    "com.unity.postprocessing": "2.3.0",
+    "com.unity.xr.oculus.android": "1.38.6",
+    "com.unity.xr.oculus.standalone": "1.38.4",
+    "com.unity.xr.openvr.standalone": "1.0.5"
+  }
+}
