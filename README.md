@@ -1,13 +1,13 @@
 # InariBako
 VRChat Prefab Collection for SDK2.
 
+Documentation is !!WIP!!
+
 ## Requirements
 * VRChat SDK2
 * VRC StarterKit
   * https://booth.pm/ja/items/979837
   * https://gitlab.com/vrchat_projects_momoma/vrc_starterkit
-
-See also README in each assets.
 
 ## Components
 * `Events`
