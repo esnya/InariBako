@@ -604,7 +604,7 @@ MonoBehaviour:
       - {fileID: 2211203500235070212}
       ParameterBytes: 
       TakeOwnershipOfTarget: 0
-    Name: DespawnAll
+    Name: DespawnAllOwned
     Others: []
     Key: 0
     TriggerIndividuals: 1
@@ -826,7 +826,7 @@ MonoBehaviour:
     Events:
     - Name: 
       EventType: 15
-      ParameterString: DespawnAll
+      ParameterString: DespawnAllOwned
       ParameterBoolOp: 0
       ParameterBool: 0
       ParameterFloat: 0
@@ -836,7 +836,7 @@ MonoBehaviour:
       - {fileID: 2211203500235070212}
       ParameterBytes: 
       TakeOwnershipOfTarget: 0
-    Name: DespawnAll
+    Name: DespawnAllOwned
     Others: []
     Key: 0
     TriggerIndividuals: 1
