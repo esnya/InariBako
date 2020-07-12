@@ -4,7 +4,7 @@
   "description": "VRChat Prefab Collection for SDK2",
   "author": "esnya",
   "license": "MIT",
-  "private": "true",
+  "private": true,
   "dependencies": {
     "com.unity.build-report-inspector": "0.2.2-preview",
     "com.unity.package-manager-ui": "2.0.8",
