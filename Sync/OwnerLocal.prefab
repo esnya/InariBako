@@ -360,7 +360,8 @@ MonoBehaviour:
   OnChange:
     TriggerObject: {fileID: 0}
     CustomName: 
-  Clips: []
+  Clips:
+  - {fileID: 8300000, guid: efe2b6404fcac194eb60fb28fe21c2d0, type: 3}
 --- !u!114 &6035159725499812581
 MonoBehaviour:
   m_ObjectHideFlags: 0
